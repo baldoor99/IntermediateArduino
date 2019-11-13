@@ -1,2 +1,2 @@
-# BATTA
-My Batta assignments
+# IntermediateArduino
+My IntermediateArduino assignments
